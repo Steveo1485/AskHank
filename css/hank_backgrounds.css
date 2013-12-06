@@ -43,7 +43,6 @@ img#hank-picture {
 	position: relative;
 }
 
-
 .speech-bubble::after {
 	content: "";
 	position: absolute;
@@ -54,7 +53,12 @@ img#hank-picture {
 	border-left: 25px #ecf0f1 solid;
 }
 
-h2 {
+p#hank-says {
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: .5em;
+	width: 80%;
 	text-align: center;
+	font-size: 1.2em;
 	color: #34495e;
 }
