@@ -1,0 +1,13 @@
+input.question-input {
+	display: block;
+	position: absolute;
+	top: 80%;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 0;
+	background-color: #ecf0f1;
+	width: 70%;
+	font-size: 2em;
+	border: 10px #ecf0f1 solid;
+	border-radius: 10px;
+}
