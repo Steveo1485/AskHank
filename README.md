@@ -7,8 +7,6 @@ A project to practice front end development skills.
 
 Next Steps
 =======
-* Create random welcome messages
-* Allow user to submit a question
-* Create response messages
+* Create multiple response messages
 * Work on positioning - make responsive
 * Create multiple Hank pictures with different "attitudes" for responses
