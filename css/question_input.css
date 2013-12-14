@@ -1,4 +1,4 @@
-input.question-input {
+input#question-input {
 	display: block;
 	position: absolute;
 	top: 80%;
