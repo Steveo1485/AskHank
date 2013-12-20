@@ -1,7 +1,9 @@
 input#question-input {
-    margin-left: 15%;
-    margin-right: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 1%;
+    margin-bottom: 5px;
     background-color: #ecf0f1;
     width: 70%;
     font-size: 2em;
